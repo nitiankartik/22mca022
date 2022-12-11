@@ -1,0 +1,39 @@
+body {
+    background-color: blanchedalmond;
+}
+header {
+    height: fit-content;
+    background-color: rgb(91, 35, 245);
+    padding: 1%;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+}
+section {
+    display: flex;
+}
+nav {
+    flex: 1;
+    background: #ccc;
+    padding: 20px;   
+}
+
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+font {
+    border-radius: 3mm;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+fieldset a {
+    text-decoration: none;
+    color: orangered;
+}
